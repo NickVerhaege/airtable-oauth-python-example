@@ -2,8 +2,9 @@
 This is an example Flask app demonstrating how to use OAuth 2.0 to authenticate with Airtable ([OAuth reference guide](https://airtable.com/developers/web/api/oauth-reference)) and access a user's data. This app uses the Authorization Code Grant flow to authenticate the user and request an access token.
 
 ## Prerequisites
-* Airtable account and API key
+* Airtable (developer) account
 * Airtable OAuth integration created in the [Airtable Management page](https://airtable.com/create/oauth)
+  * Client ID and Client secret
 * Python 3.6+
 
 ## Setup
